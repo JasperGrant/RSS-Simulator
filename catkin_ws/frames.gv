@@ -1,0 +1,7 @@
+digraph G {
+"world" -> "RSS"[label=" Broadcaster: /gazebo_node\nAverage rate: 1.25\nBuffer length: 4.001\nMost recent transform: 1623087759.6\nOldest transform: 1623087755.6\n"];
+edge [style=invis];
+ subgraph cluster_legend { style=bold; color=black; label ="view_frames Result";
+"Recorded at time: 1623087760.01"[ shape=plaintext ] ;
+}->"world";
+}
