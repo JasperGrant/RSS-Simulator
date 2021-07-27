@@ -1,0 +1,17 @@
+<package>
+  <description brief="gazebo_plugins">
+
+     gazebo_plugins
+
+  </description>
+  <author>RSS-user</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/gazebo_plugins</url>
+  <depend package="roscpp"/>
+  <depend package="gazebo_ros"/>
+  <depend package="geometry_msgs"/>
+  <depend package="turtle_movement_simulator"/>
+  <depend package="message_generation"/>
+
+</package>

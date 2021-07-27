@@ -1,2 +1,2 @@
-learning_joy:learning_tf2:solenoid_ctrl:turtle_movement_simulator
+gazebo_plugins:learning_joy:learning_tf2:solenoid_ctrl:turtle_movement_simulator
 -DCATKIN_DEVEL_PREFIX=/home/rss-user-2/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/rss-user-2/catkin_ws/install -G Unix Makefiles

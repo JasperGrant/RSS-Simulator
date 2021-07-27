@@ -135,6 +135,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("/home/rss-user-2/catkin_ws/build/learning_joy/cmake_install.cmake")
   include("/home/rss-user-2/catkin_ws/build/learning_tf2/cmake_install.cmake")
   include("/home/rss-user-2/catkin_ws/build/turtle_movement_simulator/cmake_install.cmake")
+  include("/home/rss-user-2/catkin_ws/build/gazebo_plugins/cmake_install.cmake")
 
 endif()
 
