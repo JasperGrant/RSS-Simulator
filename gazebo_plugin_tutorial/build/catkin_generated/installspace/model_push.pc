@@ -1,8 +1,0 @@
-prefix=/usr/local
-
-Name: model_push
-Description: Description of model_push
-Version: 0.0.0
-Cflags: -I${prefix}/include
-Libs: -L${prefix}/lib 
-Requires: roscpp gazebo_ros geometry_msgs message_runtime message_generation
