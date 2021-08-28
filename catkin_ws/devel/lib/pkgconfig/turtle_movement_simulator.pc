@@ -1,0 +1,8 @@
+prefix=/home/rss-user-2/catkin_ws/devel
+
+Name: turtle_movement_simulator
+Description: Description of turtle_movement_simulator
+Version: 0.0.0
+Cflags: -I/home/rss-user-2/catkin_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: roscpp geometry_msgs message_runtime
